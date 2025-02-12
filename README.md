@@ -11,3 +11,18 @@ UNDP Human Development Indicator: 0.633 (India)
 
 National Water Security Index: 2 (India)
 ______________
+Location /Co-ordinates
+____________
+Todi /21°36'41"N 71°52'08"E
+__________
+Paddhari/ 22°26'08"N 70°36'17"E
+______
+Kagdadi/22°28'08"N 70°46'46"E
+________
+Vajdi Vad /22°15'26"N 70°41'31"E
+_________
+Pambhar Intala/22°17'01"N 70°37'02"E
+________
+Jetakuba /22°07'43"N 70°35'40"E
+________
+Rajkot /22°18'38"N 70°48'26"E
