@@ -1,6 +1,29 @@
 # Project-497
 Rainwater Harvesting &amp; Bundled Check Dam Initiative – Gir Ganga Parivar Trust Project, Gujarat, India
 
+UWR Scope
+RoU Scope 2: Measures for conservation and storage of excess
+surface water for future requirement
+
+Catchment Area
+Total Catchment Area (m2)
+_____
+Bhavnagar /Rajkot Total
+______
+7090/ 272875.2/ 279965.2
+_______
+Type of Construction Concrete
+
+Average Rainfall
+______
+Rajkot- 709.8mm
+___
+Bhavnagar- 598.4mm
+______
+Run Off Coefficient 0.3
+
+Evaporation & Absorption losses 20%
+
 UWR RoU Scope: RoU Scope 2
 
 1st Monitoring Period: 03/03/2022-31/12/2024 (02 Years, 10 Months)
